@@ -7,4 +7,4 @@ This repository contains notes, ipynb files and pdfs that I made as I read "An I
 ---
 
 ### Content
-- [Datasets](Latex_Reports/Datasets.pdf)
+- [Datasets](https://github.com/Dhruv-x7x/ISLP/blob/main/Latex%20Reports/Datasets.pdf)
