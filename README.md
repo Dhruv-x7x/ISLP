@@ -7,4 +7,4 @@ This repository contains notes, ipynb files and pdfs that I made as I read "An I
 ---
 
 ### Content
-- [Datasets](Latex-Reports/Datasets.pdf)
+- [Datasets](Latex_Reports/Datasets.pdf)
